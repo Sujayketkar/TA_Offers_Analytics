@@ -1,1 +1,2 @@
 # TA_Offers_Analytics
+This dataset comprises simulated/fake data, providing details on offers extended by an organization. It includes information such as offer details across different job levels and departments, candidate responses (acceptances and rejections), preferred joining locations, candidate experience levels, as well as metrics like time taken to accept offers and time taken to complete the hiring process.
